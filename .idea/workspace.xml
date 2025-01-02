@@ -5,23 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5ee083e-e953-4c16-9e96-f2c2a252806f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing_numpy_final.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testnumpy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testnumpy2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testnumpy4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testnumpy5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testnumpy6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testnumpy7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testnumpy8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testnumpy9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testnympy3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directory_for_remember_how_to_work/test_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test - code - f/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing_numpy_final.py" beforeDir="false" afterPath="$PROJECT_DIR$/test - code - f/testing_numpy_final.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testnumpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/test - code - f/testnumpy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testnumpy2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test - code - f/testnumpy2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testnumpy4.py" beforeDir="false" afterPath="$PROJECT_DIR$/test - code - f/testnumpy4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testnumpy5.py" beforeDir="false" afterPath="$PROJECT_DIR$/test - code - f/testnumpy5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testnumpy6.py" beforeDir="false" afterPath="$PROJECT_DIR$/test - code - f/testnumpy6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testnumpy7.py" beforeDir="false" afterPath="$PROJECT_DIR$/test - code - f/testnumpy7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testnumpy8.py" beforeDir="false" afterPath="$PROJECT_DIR$/test - code - f/testnumpy8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testnumpy9.py" beforeDir="false" afterPath="$PROJECT_DIR$/test - code - f/testnumpy9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testnympy3.py" beforeDir="false" afterPath="$PROJECT_DIR$/test - code - f/testnympy3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +56,17 @@
     "Python.testnumpy9.executor": "Run",
     "Python.testnympy3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "testing-development",
     "last_opened_file_path": "C:/Users/Sleptok123/PycharmProjects/pythonProject5"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Sleptok123\PycharmProjects\pythonProject5" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sleptok123\PycharmProjects\pythonProject5" />
+      <recent name="C:\Users\Sleptok123\PycharmProjects\pythonProject5\test - code - f" />
     </key>
   </component>
   <component name="RunManager">
@@ -83,7 +83,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testnumpy.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Sleptok123\PycharmProjects\pythonProject5\test - code - f\testnumpy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
