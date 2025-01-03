@@ -31,9 +31,9 @@ print(c.itemsize)
 
 # total size
 
-print(a.itemsize)
-print(b.itemsize)
-print(c.itemsize)
+print(a.size)
+print(b.size)
+print(c.size)
 
 # multiply var sizes
 print(a.itemsize * a.size)

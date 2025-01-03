@@ -20,9 +20,4 @@ print(np.vstack((vb,va,va,va)))
 
 vb = np.zeros([2,4])
 va = np.ones([2,2])
-
-
-
 print(np.hstack((vb , va)))
-
-

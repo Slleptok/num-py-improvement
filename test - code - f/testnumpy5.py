@@ -23,7 +23,3 @@ print(c*2)
 #/
 c = np.array([1,2,3,4])
 print(c/2)
-
-
-#Linear algebra
-

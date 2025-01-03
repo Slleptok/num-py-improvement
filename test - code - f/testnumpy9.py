@@ -1,7 +1,6 @@
 import numpy as np
+
 #boolean masking and advanced indexing
-
-
 filedata =np.genfromtxt("data.txt", delimiter=',')
 print(filedata)
 
